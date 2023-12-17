@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    version="1.1"
+    x="0"
+    y="0"
+    width="300px"
+    height="300px"
+    viewBox="0 0 108.0 108.0"
+    shape-rendering="geometricPrecision"
+    text-rendering="geometricPrecision"
+    image-rendering="optimizeQuality"
+    fill-rule="evenodd"
+    clip-rule="evenodd"
+    stroke-linejoin="round"
+    stroke-linecap="round"
+    stroke-miterlimit="10">
+    <path
+        fill-opacity="0.0"
+        d="M9,0L9,108"
+        stroke="green" 
+        stroke-with="0.8" />
+    <path
+        fill-opacity="0.0"
+        d="M19,0L19,108"
+        stroke="green" 
+        stroke-with="0.8" />
+    <path
+        fill-opacity="0.0"
+        d="M29,0L29,108"
+        stroke="green" 
+        stroke-with="0.8" />
+    <path
+        fill-opacity="0.0"
+        d="M39,0L39,108"
+        stroke="green" 
+        stroke-with="0.8" />
+    <path
+        fill-opacity="0.0"
+        d="M49,0L49,108"
+        stroke="green" 
+        stroke-with="0.8" />
+    <path
+        fill-opacity="0.0"
+        d="M59,0L59,108"
+        stroke="green" 
+        stroke-with="0.8" />
+    <path
+        fill-opacity="0.0"
+        d="M69,0L69,108"
+        stroke="green" 
+        stroke-with="0.8" />
+    <path
+        fill-opacity="0.0"
+        d="M79,0L79,108"
+        stroke="green" 
+        stroke-with="0.8" />
+    <path
+        fill-opacity="0.0"
+        d="M89,0L89,108"
+        stroke="green" 
+        stroke-with="0.8" />
+    <path
+        fill-opacity="0.0"
+        d="M99,0L99,108"
+        stroke="green" 
+        stroke-with="0.8" />
+    <path
+        fill-opacity="0.0"
+        d="M0,9L108,9"
+        stroke="green" 
+        stroke-with="0.8" />
+    <path
+        fill-opacity="0.0"
+        d="M0,19L108,19"
+        stroke="green" 
+        stroke-with="0.8" />
+    <path
+        fill-opacity="0.0"
+        d="M0,29L108,29"
+        stroke="green" 
+        stroke-with="0.8" />
+    <path
+        fill-opacity="0.0"
+        d="M0,39L108,39"
+        stroke="green" 
+        stroke-with="0.8" />
+    <path
+        fill-opacity="0.0"
+        d="M0,49L108,49"
+        stroke="green" 
+        stroke-with="0.8" />
+    <path
+        fill-opacity="0.0"
+        d="M0,59L108,59"
+        stroke="green" 
+        stroke-with="0.8" />
+    <path
+        fill-opacity="0.0"
+        d="M0,69L108,69"
+        stroke="green" 
+        stroke-with="0.8" />
+    <path
+        fill-opacity="0.0"
+        d="M0,79L108,79"
+        stroke="green" 
+        stroke-with="0.8" />
+    <path
+        fill-opacity="0.0"
+        d="M0,89L108,89"
+        stroke="green" 
+        stroke-with="0.8" />
+    <path
+        fill-opacity="0.0"
+        d="M0,99L108,99"
+        stroke="green" 
+        stroke-with="0.8" />
+    <path
+        fill-opacity="0.0"
+        d="M19,29L89,29"
+        stroke="green" 
+        stroke-with="0.8" />
+    <path
+        fill-opacity="0.0"
+        d="M19,39L89,39"
+        stroke="green" 
+        stroke-with="0.8" />
+    <path
+        fill-opacity="0.0"
+        d="M19,49L89,49"
+        stroke="green" 
+        stroke-with="0.8" />
+    <path
+        fill-opacity="0.0"
+        d="M19,59L89,59"
+        stroke="green" 
+        stroke-with="0.8" />
+    <path
+        fill-opacity="0.0"
+        d="M19,69L89,69"
+        stroke="green" 
+        stroke-with="0.8" />
+    <path
+        fill-opacity="0.0"
+        d="M19,79L89,79"
+        stroke="green" 
+        stroke-with="0.8" />
+    <path
+        fill-opacity="0.0"
+        d="M29,19L29,89"
+        stroke="green" 
+        stroke-with="0.8" />
+    <path
+        fill-opacity="0.0"
+        d="M39,19L39,89"
+        stroke="green" 
+        stroke-with="0.8" />
+    <path
+        fill-opacity="0.0"
+        d="M49,19L49,89"
+        stroke="green" 
+        stroke-with="0.8" />
+    <path
+        fill-opacity="0.0"
+        d="M59,19L59,89"
+        stroke="green" 
+        stroke-with="0.8" />
+    <path
+        fill-opacity="0.0"
+        d="M69,19L69,89"
+        stroke="green" 
+        stroke-with="0.8" />
+    <path
+        fill-opacity="0.0"
+        d="M79,19L79,89"
+        stroke="green" 
+        stroke-with="0.8" />
+</svg>
