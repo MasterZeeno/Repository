@@ -36,5 +36,5 @@
       <use href="#notice" x="2.5" y="240" />
     </g>
   </defs>
-  <use href="#zeeemailsig" y="10" />
+  <use href="#zeeemailsig" y="10" width="300" height="300" />
 </svg>
