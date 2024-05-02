@@ -1,6 +1,6 @@
 <svg height="300px" width="300px" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
   <style>
-    @import url(https://fonts.googleapis.com/css2?family=Tilt+Warp&display=swap);
+    @import url('https://fonts.googleapis.com/css2?family=Tilt+Warp&display=swap');
 
     text {
       font-family: "Tilt Warp", sans-serif;
