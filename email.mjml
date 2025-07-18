@@ -1,0 +1,59 @@
+<mjml>
+  <mj-head>
+    <mj-title>Safety Statistics Report</mj-title>
+    <mj-preview>PE-01-NSBP2-23 — Safety Report for July 7–13, 2025</mj-preview>
+    <mj-attributes>
+      <mj-all font-family="Helvetica, sans-serif" color="#00386c" font-size="16px" line-height="1.2" />
+      <mj-text padding="16px" />
+      <mj-section padding="0px" />
+      <mj-column padding="0px" />
+    </mj-attributes>
+    <mj-style>
+      @media (prefers-reduced-motion: no-preference) {
+        html {
+          scroll-behavior: smooth;
+        }
+      }
+    </mj-style>
+  </mj-head>
+
+  <mj-body background-color="transparent">
+    <mj-section background-color="transparent" padding="16px">
+      <mj-column>
+        <mj-text font-size="20px" font-weight="bold" padding-bottom="0">
+          Good day, everyone!
+        </mj-text>
+
+        <mj-text>
+          Please see the attached <i>spreadsheet</i> file containing the updated
+          <b>PE-01-NSBP2-23 — Safety Statistics Report</b> for the week of <b>July 7–13, 2025</b>.
+        </mj-text>
+
+        <mj-text>
+          Kindly review and take note of any items that may require
+          <i>attention, corrective action,</i> or <i>further coordination</i>.
+        </mj-text>
+
+        <mj-text>
+          Let us continue to uphold the highest standards of <i>safety</i> and <i>accountability</i>.
+        </mj-text>
+
+        <mj-text>
+          Thank you—<i>and as always,</i> <b>Safety first!</b> 👊
+        </mj-text>
+
+        <mj-divider border-style="dashed" border-width="0.69px" border-color="#00386c" padding="32px 0 16px" />
+
+        <mj-text>
+          Best regards,
+        </mj-text>
+
+        <mj-image
+          src="https://raw.githubusercontent.com/MasterZeeno/Repository/main/zee-signature-light.png"
+          href="http://www.hcc.com.ph/"
+          padding-top="32px"
+        />
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
